@@ -1,3 +1,4 @@
+
 ,customer_id,age,gender,city,education,income,orders,total_spent,category,payment,discount,rating,website_visits,support_calls,last_purchase,membership,churn,spending_per_order,age_group,purchase_year,purchase_month
 0,C197414,30.0,male,Hyderabad,Bachelor,44227.0,8.0,32936.78,Sports,Credit Card,9.2,3.9,13,1,2024-09-14,Basic,Yes,4117.0975,adult,2024,9
 1,C109139,23.0,female,Hyderabad,Diploma,52613.0,2.0,6927.52,Sports,Wallet,3.4,1.2,19,1,2025-05-12,Gold,No,3463.76,young,2025,5
